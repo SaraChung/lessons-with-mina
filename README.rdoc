@@ -1,28 +1,9 @@
-== README
+== MinaMemes
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This was the first time I have used HTML5/CSS3 to make anything - 
+http://lit-springs-9487.herokuapp.com
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+It was inspired by my Bitmaker Labs instructor, Mina Mikhail, who spiced up his lectures (unintentionally)
+with tons of quotable quotes. We were tasked with a Photogur assignment, which was a simple clone of Imgur,
+and combined with the fact that I was probably the only one in class at that point who didnt know how to 
+use HTML5/CSS3, I took this as a learning opportunity.
